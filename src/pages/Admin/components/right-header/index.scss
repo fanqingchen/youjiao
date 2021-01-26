@@ -1,0 +1,36 @@
+.app-header{
+    background-color: #fff !important;
+    padding: 0 20px !important;
+        div.header-content {
+            display: flex;
+            align-items:center;
+            
+          h1.left {
+            flex: 1;
+            font-size: 25px;
+            font-weight: 600;
+            i{
+              margin-right: 10px;
+            }
+          }
+      
+          div.right {
+              display: flex;
+              justify-content: space-between;
+              align-items: center;
+              
+            i {
+              
+            }
+      
+            span {
+                
+            }
+      
+            button {
+                margin-left: 10px;
+            }
+          }
+        }
+      
+}
